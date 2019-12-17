@@ -1,4 +1,5 @@
-#Plan cho cuốn Clean code.
+Plan cho cuốn Clean code.
+==
 1. Mục tiêu đạt:
 - Với mỗi chương sẽ ghi chú lại ý chính.
 - Hoàn thành với thời gian đề ra.

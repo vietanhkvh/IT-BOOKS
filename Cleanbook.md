@@ -8,4 +8,5 @@ B. Thời gian dự kiến:
  2. Chapter6->10: 1,5 tuần.
  3. Chapter11->15: 2 tuần.
  4. Phần còn lại: 2 tuần.
+ 
 C. Review lại phần tóm tắt:

@@ -12,7 +12,7 @@ Hope you enjoying and feeling free to make it better.
 ---
 
 ## Table of content
-- [What is it?](#what-is-it)
+- [What is this?](#what-is-this)
 - [Why use it?](#why-use-it)
 - [How to use it](#how-to-use-it)
 - [How many parts are there of the book?](#How-many-parts-are-there-of-the-book-?)

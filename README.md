@@ -11,6 +11,13 @@ Hope you enjoying and feeling free to make it better.
 
 ---
 
+## Table of content
+- [What is it?](#what-is-it)
+- [Why use it?](#why-use-it)
+- [How to use it](#how-to-use-it)
+- [How many parts are there of the book?](#How-many-parts-are-there-of-the-book-?)
+
+---
 ## How many parts are there of the book?
 The things which I think you should firstly read about the books before reading is the menu of book.
 
@@ -29,7 +36,7 @@ It includes 17 parts main and 3 bonus part. There are:
 - [Chapter 11: Systems](#Chapter-11-Systems)
 - [Chapter 12: Emergence](#Chapter-12-Emergence)
 - [Chapter 13: Concurrency](#Chapter-13-Concurrency)
-- [Chapter 14: Successive Refinement](#Chapter-14-Successive Refiement)
+- [Chapter 14: Successive Refinement](#Chapter-14-Successive-Refiement)
 - [Chapter 15: JUnit Internals](Chapter-15-JUnit-Internals)
 - [Chapter 16: Refactoring SerialDate](#Chapter-16-Refactoring-SerialDate)
 - [Chapter 17: Smells and Heuristics](#Chapter-17-Smells-and-Heuristics)

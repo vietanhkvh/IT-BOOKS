@@ -15,10 +15,10 @@ Hope you enjoying and feeling free to make it better.
 - [What is this?](#what-is-this)
 - [Why use it?](#why-use-it)
 - [How to use it](#how-to-use-it)
-- [How many parts are there of the book?](#How-many-parts-are-there-of-the-book-?)
+- [How many parts are there of the book?](#How-many-parts-are-there-of-the-book?)
 
 ---
-## <a name="How many parts are there of the book?"> </a> How many parts are there of the book?
+## <a href="How many parts are there of the book?"> </a> How many parts are there of the book?
 The things which I think you should firstly read about the books before reading is the menu of book.
 Not necessary to follow the after book order. You can read a chapter what you like at first. 
 It includes 17 main parts and 3 appendix parts. There are:

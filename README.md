@@ -3,7 +3,7 @@
 
 ## What is this?
 
-This is multi-month study plan for reading The "Clean code" book and taking note the important things which everyone should remember about it. About the book, it is a usefull and reading easy for everyone. The author write it by telling story, so it isn't academic.
+This is multi-week study plan and develop this repository for reading The "Clean code" book and taking note the important things which everyone should remember about it. About the book, it is a usefull and reading easy for everyone. The author write it by telling story, so it isn't academic.
 
 My main goal was coding better and sharing what I leart from the book after reading. When I wrote this respositrosi, I was a student in three years and hoped boosting my code level.
 
@@ -17,6 +17,8 @@ Hope you enjoying and feeling free to make it better.
 - [How to use it](#how-to-use-it)
 - [How many parts are there of the book?](#How-many-parts-are-there-of-the-book)
 
+---
+## Why use it
 ---
 ## How many parts are there of the book?
 The things which I think you should firstly read about the books before reading is the menu of book.

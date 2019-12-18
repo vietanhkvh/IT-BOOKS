@@ -16,12 +16,11 @@ Hope you enjoying and feeling free to make it better.
 - [Why use it?](#why-use-it)
 - [How to use it](#how-to-use-it)
 - [How many parts are there of the book?](#How-many-parts-are-there-of-the-book-?)
-
 ---
 ## How many parts are there of the book?
 The things which I think you should firstly read about the books before reading is the menu of book.
-
-It includes 17 parts main and 3 bonus part. There are:
+Not necessary to follow the after book order. You can read a chapter what you like at first. 
+It includes 17 main parts and 3 appendix parts. There are:
 - [My feeling after reading book](#Feeling)
 - [Chapter 1: Clean code](#Chapter-1-Clean-code)
 - [Chapter 2: Meaningfull name](#Chapter-2-Meaningful-name)

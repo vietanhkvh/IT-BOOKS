@@ -1,11 +1,13 @@
 # Chapter 1: Clean code
 ---
-##Table of content
+## Table of content
 - [There will be code](#There-will-be-code)
 - [Bad code](#Bad-code)
 - [A total cost of owning a mess:](#A-total-cost-of-owning-a-mess)
-+ [1. The grand redesign in the sky](#1-The grand-redesign-in-the-sky)
++ [1. The grand redesign in the sky](#1-The-grand-redesign-in-the-sky)
 + [2. Attitude](#2-Attitude)
++ [3. The primal connumdrum](#3-The-primal-connumdrum)
++ [4. The art of clean code](#4.-The-art-of-clean-code)
 ---
 ## There will be code
 * The code will change on day by day, nothing can replace code.

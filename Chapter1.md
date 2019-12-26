@@ -1,9 +1,9 @@
 # Chapter 1: Clean code
 ---
 ##Table of content
--[There will be code](#There-will-be-code)
--[Bad code](#Bad-code)
--[A total cost of owning a mess:](#A-total-cost-of-owning-a-mess)
+- [There will be code](#There-will-be-code)
+- [Bad code](#Bad-code)
+- [A total cost of owning a mess:](#A-total-cost-of-owning-a-mess)
 + [1. The grand redesign in the sky](#1-The grand-redesign-in-the-sky)
 + [2. Attitude](#2-Attitude)
 ---
